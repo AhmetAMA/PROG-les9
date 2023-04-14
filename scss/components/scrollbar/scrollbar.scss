@@ -1,0 +1,4 @@
+@use "../../abstracts/colors";
+body {
+    scrollbar-color: map-get(colors.$baseColors, "backgroundDark") map-get(colors.$baseColors, "whiteColor");
+}

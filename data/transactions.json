@@ -1,0 +1,51 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "Ahmet Asut",
+            "amount": 4000,
+            "logo": "house"
+        },
+        {
+            "from/to": "Ahmet Asut",
+            "amount": -800
+        },
+        {
+            "from/to": "Ahmet Asut",
+            "amount": 7300
+        },
+        {   
+            "from/to": "Ahmet Asut",
+            "amount": 1600
+        },
+        {
+            "from/to": "Ahmet Asut",
+            "amount": -900
+        },
+        {
+            "from/to": "Ahmet Asut",
+            "amount": 400
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "Bedrijf X",
+            "amount": 10000,
+            "logo": "sack-dollar"
+        },
+        {
+            "from/to": "Bedrijf Z",
+            "amount": -500
+        }
+    ],
+    "ZZP-Rekening-2": [
+        {
+            "from/to": "Google",
+            "amount": 200000,
+            "logo": "building"
+        },
+        {
+            "from/to": "AB",
+            "amount": -85000
+        }
+    ]
+}

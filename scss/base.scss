@@ -1,0 +1,8 @@
+@use "./abstracts/colors";
+@use "./abstracts/vars";
+body{
+    min-height: 100vh;
+    background: vars.$gradient;
+    padding: map-get(vars.$vhCalc, "paddingOfBody");
+    padding-bottom: 0;
+}
